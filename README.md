@@ -92,3 +92,5 @@ You need to install libcairo2-dev, libjpeg-dev and libgif-dev packages to suppor
 	$ sudo apt-get install libcairo2-dev libjpeg-dev libgif-dev
 	$ npm install jsbarcode
 	$ npm install canvas
+### add new stuffs here
+
